@@ -1,0 +1,26 @@
+html {
+    background-color: #222323;
+  }
+  
+.vivi {
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+}
+
+.title {
+    font-family: 'Ra;eway', sans-serif;
+}
+
+.subtitle {
+    letter-spacing: 10px;
+}
+
+#tans {
+    height: 95vh;
+}
+
+.text-about {
+    text-align: justify;
+    text-indent: 50px;
+}
